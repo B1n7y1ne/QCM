@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/index.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css' rel='stylesheet'>
+    <title>Quiz app</title>
+</head>
+<body>
+    <div id="preloader">
+    </div>
+    <header>
+        <h2 class="Title">QCM sur <a href="https://fr.wikipedia.org/wiki/La_Bo%C3%AEte_%C3%A0_merveilles"> <span> La
+                    boite à merveilles</a> </span><span></span></h2>
+        <h2>Questions générales</h2>
+    </header>
+    <div class="container">
+        <div class="quiz-info">
+            <div class="category"> <span><i class='bx bx-book-open'></i></span> L'oeuvre :<span id="oeuvre"> La boite à
+                    merveilles</span></div>
+            <div class="count"> Les questions comptent : <span></span></div>
+        </div>
+        <hr>
+        <div class="results">
+            <h1 style="margin-bottom: 10px;">Resulta :</h1>
+            <div class="results-numbers"></div>
+            <div class="parfait">
+                <i class='bx bx-wink-smile bx-tada'></i> Parfait !!
+            </div>
+            <div class="bien">
+                <i class='bx bxs-smile bx-tada'></i> Bien
+            </div>
+            <div class="mal">
+                <i class='bx bxs-angry bx-tada'></i> Mal !!
+            </div>
+            <div class="note"></div>
+            <button onclick="reload()" class="reload">Essayé une autre fois</button>
+        </div>
+        <div class="quiz-area">
+        </div>
+        <div class="answers-area">
+        </div>
+        <button class="submit-button">soumettre une réponse</button>
+        <div class="bullets">
+            <div class="spans">
+            </div>
+            <div class="count-down">
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>Made By Yassine Benzyane © 2023</p>
+        <div class="social-icons">
+            <ul>
+            <a href="https://github.com/"><i class="fa-brands fa-github"></i></a>
+            <a href="#"><i class="fa-solid fa-envelope"></i></a>
+            <a href="https://www.instagram.com/yassine.benzyane__/"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://twitter.com/i/flow/login"><i class="fa-brands fa-twitter"></i></a>
+            </ul>
+        </div>
+    </footer>
+    <script src="/index.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+   
+<script>
+    setTimeout(function() {
+    $('#preloader').fadeToggle();
+    }, 3500)
+</script>
+        
+
+
+
+</body>
+
+</html>

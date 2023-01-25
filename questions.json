@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Quel est le genre de ce roman ?",
+    "answer_1": "Roman policier",
+    "answer_2": "Roman de thèse",
+    "answer_3": "Roman autobiographique",
+    "answer_4": "Rien de ça",
+    "right_answer": "Roman autobiographique"
+  },
+  {
+    "title": "Ce roman est écrit en :",
+    "answer_1": " 1950",
+    "answer_2": " 1951",
+    "answer_3": "1952",
+    "answer_4": "Rien de ça",
+    "right_answer": "1952"
+  },
+  {
+    "title": "Il est publié en :",
+    "answer_1": "1950",
+    "answer_2": "1952",
+    "answer_3": "1954",
+    "answer_4": "Rien de ça",
+    "right_answer": "1954"
+  },
+  {
+    "title": "le narrateur est né en :",
+    "answer_1": "1910",
+    "answer_2": "1915",
+    "answer_3": "1921",
+    "answer_4": "Rien de ça",
+    "right_answer": "1915"
+  },
+  {
+    "title": "Comment s’appelle le narrateur ?",
+    "answer_1": "Ahmed Sefrioui",
+    "answer_2": "Sidi Mohammed",
+    "answer_3": "Driss",
+    "answer_4": "Rien de ça",
+    "right_answer": "Sidi Mohammed"
+  },
+  {
+    "title": "Quel est le problème du narrateur ?",
+    "answer_1": "la peur",
+    "answer_2": "la migraine",
+    "answer_3": "la solitude",
+    "answer_4": "Rien de ça",
+    "right_answer": "la solitude"
+  },
+  {
+    "title": "Le narrateur-enfant a :",
+    "answer_1": " 5 ans",
+    "answer_2": "6 ans",
+    "answer_3": " 7 ans",
+    "answer_4": "Rien de ça",
+    "right_answer": "6 ans"
+  },
+  {
+    "title": "Où habite-t-il (Le narrateur) ?",
+    "answer_1": " à Dar Kitoune ",
+    "answer_2": "à Dar Idrissiyine",
+    "answer_3": "à Dar Chouafa",
+    "answer_4": "Rien de ça",
+    "right_answer": "à Dar Chouafa"
+  },
+  {
+    "title": "Pourqoi porte-t-elle ce nom ?",
+    "answer_1": "il y a une voyante",
+    "answer_2": "il y a une sorciére",
+    "answer_3": "il y a an charlatan",
+    "answer_4": "Rien de ça",
+    "right_answer": "il y a une voyante"
+  },
+  {
+    "title": "Que fait-elle chaque nuit?",
+    "answer_1": "Des études",
+    "answer_2": "Des rituels",
+    "answer_3": "Des mariages",
+    "answer_4": "Rien de ça",
+    "right_answer": "Des rituels"
+  },
+  {
+    "title": "Qui habite au rez-de-chaussée ?",
+    "answer_1": "Fatma Bziouya",
+    "answer_2": "La famille du narrateur",
+    "answer_3": "Une voyante",
+    "answer_4": "Rien de ça",
+    "right_answer": "Le Chaplet d'Ambre"
+  },
+  {
+    "title": "Qui habite au premier étage ?",
+    "answer_1": "La famille El Aouad",
+    "answer_2": "Fatma Bziouya",
+    "answer_3": "Driss",
+    "answer_4": "Rien de ça",
+    "right_answer": "Driss"
+  },
+  {
+    "title": "Qui habite au deuxième étage ?",
+    "answer_1": "Kenza la chouafa",
+    "answer_2": "La famille du narrateur et Bziouiya",
+    "answer_3": "La famille du narrateur",
+    "answer_4": "Rien de ça",
+    "right_answer": "Rien de ça"
+  },
+  {
+    "title": "Comment s'appelle la fille des voisins ?",
+    "answer_1": "souhayla",
+    "answer_2": "Kenza",
+    "answer_3": "Zineb",
+    "answer_4": "Rien de ça",
+    "right_answer": "Zineb"
+  },
+  {
+    "title": "Le narrateur, qu'est-ce qu'il hait le plus ? Pour quelle raison ?",
+    "answer_1": "Les bains maures, c'est un lieu obscure",
+    "answer_2": "il n'aime pas se laver",
+    "answer_3": "les bains maures, il y a Zineb",
+    "answer_4": "Rien de ça",
+    "right_answer": "Rien de ça"
+  },
+  {
+    "title": "Qui sont les véritables amis du narrateur ?",
+    "answer_1": "Les objets de boîte",
+    "answer_2": "Les amis du Msid",
+    "answer_3": "Les petits du quartier",
+    "answer_4": "Rien de ça",
+    "right_answer": "Les objets de boîte"
+  },
+  {
+    "title": "Comment peut-on qualifier ces objets ?",
+    "answer_1": "Hétéroclites",
+    "answer_2": "Homogènes",
+    "answer_3": "Extraordinaires",
+    "answer_4": "Rien de ça",
+    "right_answer": "Hétéroclites"
+  },
+  {
+    "title": "Quand recourt-il à ces objets ?(Chaque fois qu'il...)",
+    "answer_1": "Rentre chez la chouafa",
+    "answer_2": "Sort dans la rue",
+    "answer_3": "Est confronté au monde des adultes",
+    "answer_4": "Rien de ça",
+    "right_answer": "Est confronté au monde des adultes"
+  },
+  {
+    "title": "Que va-t-il arriver au père du narrateur ?",
+    "answer_1": "il va disparaitre",
+    "answer_2": "il va devenir riche",
+    "answer_3": "il va perdre sa femme",
+    "answer_4": "Rien de ça",
+    "right_answer": "Rien de ça"
+  },
+  {
+    "title": "Où va-t-il trouver du travail ?",
+    "answer_1": "Sidi BiBi",
+    "answer_2": "Environs de Fès",
+    "answer_3": "Ancienne medina",
+    "answer_4": "Rien de ça",
+    "right_answer": "Environs de Fès"
+  },
+  {
+    "title": "À qui la mère du narrateur rend-elle visite ?",
+    "answer_1": "à Sidi El Arafi",
+    "answer_2": "à Sidi Abdeslam",
+    "answer_3": "à Sidi Mohammed",
+    "answer_4": "Rien de ça",
+    "right_answer": "à Sidi El Arafi"
+  },
+  {
+    "title": "Pour quelle raison ?",
+    "answer_1": "Pour faire de la magie noir",
+    "answer_2": "Pour s'amuser",
+    "answer_3": "Pour prédire l'avenir",
+    "answer_4": "Rien de ça",
+    "right_answer": "Pour prédire l'avenir"
+  },
+  {
+    "title": "Qu'est-il arrivé à Zineb ? Où va-t-on la retrouver ?",
+    "answer_1": "Elle disparait-Au mausolée des ldrissides",
+    "answer_2": "Elle se suicide-Chez El Arafi",
+    "answer_3": "Elle est allée à Meknès",
+    "answer_4": "Rien de ça",
+    "right_answer": "Elle disparait-Au mausolée des ldrissides"
+  },
+  {
+    "title": "Qui a trouvé Zineb ?",
+    "answer_1": "Fatma Bziouiya",
+    "answer_2": "Lalla Zoubida",
+    "answer_3": "Fatma Bziouiya et Lalla Zoubida",
+    "answer_4": "Rien de ça",
+    "right_answer": "Fatma Bziouiya et Lalla Zoubida"
+  },
+  {
+    "title": "Rahma a préparé :",
+    "answer_1": "un repas pour sa fille Zineb",
+    "answer_2": "un repas pour les mendiants",
+    "answer_3": "un repas pour les enfants",
+    "answer_4": "Rien de ça",
+    "right_answer": "un repas pour les mendiants"
+  },
+  {
+    "title": "« devant moi, il y avait : un peigne, un gobelet de cuire, des oranges… » est :",
+    "answer_1": "une gradation",
+    "answer_2": "énumération",
+    "answer_3": "euphémisme",
+    "answer_4": "Rien de ça",
+    "right_answer": "énumération"
+  },
+  {
+    "title": "« ma mère m’aspergea alternativement d’eau bouillante et d’eau glacée » est une :",
+    "answer_1": "antiphrase",
+    "answer_2": "oxymore",
+    "answer_3": "antithèse",
+    "answer_4": "Rien de ça",
+    "right_answer": "antithèse"
+  },
+  {
+    "title": "« …avant de voir surgir de la foule les deux haïks immaculés » est :",
+    "answer_1": "une personnification",
+    "answer_2": "une comparaison",
+    "answer_3": "une métaphore",
+    "answer_4": "Rien de ça",
+    "right_answer": "Rien de ça"
+  },
+  {
+    "title": " « des torrents de larme lui inondèrent le visage » est :",
+    "answer_1": "une hyperbole",
+    "answer_2": "une comparaison",
+    "answer_3": "une métaphore",
+    "answer_4": "Rien de ça",
+    "right_answer": "une métaphore"
+  },
+  {
+    "title": "« Ma mère me pria de monter sur la terrasse, braire tout à mon aise » est :",
+    "answer_1": "une hyperbole",
+    "answer_2": "une comparaison",
+    "answer_3": "une métaphore",
+    "answer_4": "Rien de ça",
+    "right_answer": "une hyperbole"
+  },
+  {
+    "title": "« Elles nous conseillèrent d’aller sur la terrasse charmer les oreilles des voisins » est ",
+    "answer_1": "une anaphore ",
+    "answer_2": "une périphrase",
+    "answer_3": "une antiphrase",
+    "answer_4": "Rien de ça",
+    "right_answer": "une antiphrase"
+  },
+  {
+    "title": " «  Les petites flammes dansaient » est :",
+    "answer_1": "une personnification",
+    "answer_2": "une métaphore",
+    "answer_3": "une hyperbole",
+    "answer_4": "Rien de ça",
+    "right_answer": "une personnification"
+  },
+  {
+    "title": "Le narrateur rêve de devenir :",
+    "answer_1": "un roi",
+    "answer_2": "un instituteur",
+    "answer_3": "une hyperbole",
+    "answer_4": "Rien de ça",
+    "right_answer": "un instituteur"
+  },
+  {
+    "title": " Le père annonce la mort de :",
+    "answer_1": "La mère de Allal",
+    "answer_2": "La mère de Driss El-Aouad",
+    "answer_3": "La mère de Driss le teigneux",
+    "answer_4": "Rien de ça",
+    "right_answer": "La mère de Driss El-Aouad"
+  },
+  {
+    "title": "Le malheur de la famille du narrateur est :",
+    "answer_1": "la ruine du père",
+    "answer_2": "la maladie de Sidi Mohamed",
+    "answer_3": "la dispute de la mère avec les voisines",
+    "answer_4": "Rien de ça",
+    "right_answer": "la ruine du père"
+  },
+  {
+    "title": "Le père a perdu son capital :",
+    "answer_1": "dans la cohue des enchères aux haïks",
+    "answer_2": "au souk des bijoux",
+    "answer_3": "Marjane ssekna Meknés",
+    "answer_4": "Rien de ça",
+    "right_answer": "dans la cohue des enchères aux haïks"
+  },
+  {
+    "title": "Que décide le père :",
+    "answer_1": "travailler comme ouvrier dans un atelier",
+    "answer_2": "travailler comme moissonneur",
+    "answer_3": "vendre tout le mobilier de la maison",
+    "answer_4": "Rien de ça",
+    "right_answer": "vendre tout le mobilier de la maison"
+  },
+  {
+    "title": "Le mardi est un jour :",
+    "answer_1": "heureux",
+    "answer_2": "ordinaire",
+    "answer_3": "néfaste",
+    "answer_4": "Rien de ça",
+    "right_answer": "néfaste"
+  },
+  {
+    "title": "Le narrateur-enfant n’aimait pas le mardi car c’était :",
+    "answer_1": "le jour de récitation",
+    "answer_2": "le jour de lessive",
+    "answer_3": "le jour de repos",
+    "answer_4": "Rien de ça",
+    "right_answer": "le jour de récitation"
+  },
+  {
+    "title": "Le roman nous parle des moeurs de l'époque. On peut le qualifier de roman ... ?",
+    "answer_1": "Pittoresque",
+    "answer_2": "Historique",
+    "answer_3": "Réaliste",
+    "answer_4": "Rien de ça",
+    "right_answer": "Réaliste"
+  }
+]
